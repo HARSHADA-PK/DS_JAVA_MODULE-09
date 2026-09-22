@@ -1,4 +1,5 @@
 # Ex16 Check for Balanced Parentheses Using Stack
+## DATE:08/08/2026
 ## AIM:
 To write a Java program that verifies whether the parentheses (brackets) in an input string are balanced — meaning each opening bracket (, {, [ has a corresponding and correctly ordered closing bracket ), }, ].
 
@@ -111,6 +112,7 @@ public class ParenChecker {
 
 
 # Ex17 Reversing a String Using Stack Data Structure
+## DATE:08/08/2026
 ## AIM:
 To write a Java program that reverses an input string using a stack, without using built-in reverse functions.
 
@@ -174,6 +176,7 @@ Thus, the program successfully reverses the given string using a stack without r
 
 
 # Ex18 Simulation of a Ticket Counter Using Queue (Linked List Implementation)
+## DATE:10/08/2026
 ## AIM:
 To simulate the functioning of a ticket counter that operates on a First-In-First-Out (FIFO) basis using a queue implemented via a linked list in Java.
 
@@ -317,6 +320,7 @@ Thus, the program successfully simulates a ticket counter queue where customers 
 
 
 # Ex19 Palindrome Check Using Deque
+## DATE:10/08/2026
 ## AIM:
 To design a program that checks whether a given message is a palindrome by removing all non-alphanumeric characters, converting all characters to lowercase, and using a deque data structure for comparison.
 
@@ -397,6 +401,7 @@ The program successfully removes all non-alphanumeric characters, converts the t
 
 
 # Ex20 Sorting an Array using Merge Sort Algorithm
+## DATE:11/08/2026
 ## AIM:
 To design a program that sorts a given array of integers in ascending order without using built-in sorting functions, achieving O(n log n) time complexity and minimal space usage.
 
